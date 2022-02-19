@@ -1,1 +1,1 @@
-# MySQL-Yedekleme
+# MySQL-Yedekleme Konteyner İmajı
